@@ -1,0 +1,11 @@
+---
+title: "ae-website-cailin"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+The website example I liked was this cool, it provides a nice outline for statistical programming and modelling. 
+
+<https://sta210-s22.github.io/website/>

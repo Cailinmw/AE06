@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "ae-website-cailin"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+sidebar:
+  style: "docked"
+  search: true
+  contents:
+  - index.qmd
+  - about.qmd
+  - section: "Assignments"
+    contents:
+    href: ae03-gerrymander.qmd
+    text: AE03
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
